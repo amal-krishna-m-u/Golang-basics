@@ -21,7 +21,7 @@ To get started with the code examples and exercises in this repository, follow t
 1. Clone this repository to your local machine using the following command:
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/amal-krishna-m-u/Golang-basics.git
     ```
 
 2. Navigate to the cloned repository's directory:
